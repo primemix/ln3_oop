@@ -1,0 +1,13 @@
+{
+  "name": "ks/ln3_oop_board_games",
+  "description": "Lesson #3 OOP",
+  "authors": [
+    {
+      "name": "Serhii Kosyouk",
+      "email": "monstrpro@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "": "src/" }
+  }
+}
