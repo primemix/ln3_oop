@@ -10,7 +10,7 @@ use Game\PlayerInterface;
  * Class Game
  * @package Game\Model
  */
-class Game extends AbstractGameClass
+class Game extends AbstractGame
 {
     /** @var BoardInterface  */
     protected $boardProvider;
