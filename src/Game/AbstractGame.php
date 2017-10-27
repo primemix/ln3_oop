@@ -6,7 +6,7 @@ namespace Game;
  * Class AbstractGameClass
  * @package Game
  */
-abstract class AbstractGameClass
+abstract class AbstractGame
 {
     /** @var  integer total score */
     protected $totalScore;
