@@ -2,7 +2,7 @@
 
 namespace Game\Models;
 
-use Game\AbstractGameClass;
+use Game\AbstractGame;
 use Game\BoardInterface;
 use Game\PlayerInterface;
 
