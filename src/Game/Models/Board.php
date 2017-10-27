@@ -37,8 +37,8 @@ class Board implements BoardInterface
      */
     public function setBoard()
     {
-        for ($x = 1; $x <= self::getAreaSize(); $x++) {
-            for ($y = 1; $y <= self::getAreaSize(); $y++) {
+        for ($x = 1; $x <= $this->getAreaSize(); $x++) {
+            for ($y = 1; $y <= $this->getAreaSize(); $y++) {
                 $this->area[$x][$y] = self::ZERO_CONST;
             }
         }
