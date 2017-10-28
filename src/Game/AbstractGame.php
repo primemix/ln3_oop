@@ -3,7 +3,7 @@
 namespace Game;
 
 /**
- * Class AbstractGameClass
+ * Class AbstractGame
  * @package Game
  */
 abstract class AbstractGame
